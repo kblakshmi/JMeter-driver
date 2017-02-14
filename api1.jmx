@@ -4617,12 +4617,12 @@
             </elementProp>
             <elementProp name="graphiteHost" elementType="Argument">
               <stringProp name="Argument.name">graphiteHost</stringProp>
-              <stringProp name="Argument.value">http://10.135.104.138</stringProp>
+              <stringProp name="Argument.value">10.135.104.138</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="graphitePort" elementType="Argument">
               <stringProp name="Argument.name">graphitePort</stringProp>
-              <stringProp name="Argument.value">32768</stringProp>
+              <stringProp name="Argument.value">32770</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="rootMetricsPrefix" elementType="Argument">
