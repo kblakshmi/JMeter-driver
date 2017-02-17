@@ -24,8 +24,10 @@
 #
 # The environment
 # export DOCKER_HOST=tcp://104.236.28.252:2376
-SLAVE_IMAGE=santosharakere/jmeter-server
-MASTER_IMAGE=santosharakere/jmeter
+#SLAVE_IMAGE=santosharakere/jmeter-server
+#MASTER_IMAGE=santosharakere/jmeter
+SLAVE_IMAGE=suman1994/jmeter-server
+MASTER_IMAGE=suman1994/jmeter-master
 DATADIR=
 JMX_SCRIPT=
 CWD=$(readlink -f .)
