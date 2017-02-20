@@ -1,46 +1,46 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
-1487330428222,895,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2445,1055,1,1,652,0,610
-1487330427835,1283,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2447,1055,1,1,885,0,794
-1487330428547,644,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2419,1055,1,1,471,0,444
-1487330429181,530,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1118,1306,1,1,530,0,0
-1487330429770,226,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1739,848,1,1,226,0,0
-1487330429997,1027,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1126,868,1,1,1027,0,16
-1487330431027,567,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1638,922,1,1,567,0,0
-1487330431597,465,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1896,1,1,465,0,0
-1487330432063,64,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,934,1266,1,1,64,0,8
-1487330432128,291,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1201,1,1,291,0,0
-1487330432420,14,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1215,1,1,14,0,0
-1487330432435,12,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,747,1,1,12,0,0
-1487330432448,12,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,931,1,1,12,0,0
-1487330432461,583,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14965,1954,1,1,8,0,0
-1487330433045,15,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,790,1,1,15,0,0
-1487330433062,13,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,480,876,1,1,13,0,0
-1487330433076,13,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,480,908,1,1,13,0,0
-1487330429175,534,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1306,1,1,534,0,0
-1487330429766,227,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,847,1,1,227,0,0
-1487330429994,557,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,867,1,1,557,0,0
-1487330430554,776,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,921,1,1,776,0,8
-1487330431332,220,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1896,1,1,220,0,0
-1487330431554,555,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1266,1,1,555,0,0
-1487330432111,303,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1201,1,1,303,0,0
-1487330432415,13,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1215,1,1,13,0,0
-1487330432429,8,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,745,1,1,8,0,0
-1487330432438,14,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,929,1,1,14,0,0
-1487330432452,627,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14965,1952,1,1,9,0,0
-1487330433081,21,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,789,1,1,21,0,7
-1487330433104,14,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,14,0,0
-1487330433119,11,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,908,1,1,11,0,0
-1487330429215,756,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1280,1,1,756,0,0
-1487330430015,1276,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1745,821,1,1,1276,0,0
-1487330431292,814,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,841,1,1,814,0,10
-1487330432108,310,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,895,1,1,309,0,0
-1487330432420,13,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1870,1,1,13,0,0
-1487330432434,57,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1240,1,1,56,0,0
-1487330432492,50,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1175,1,1,50,0,0
-1487330432543,31,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1189,1,1,31,0,0
-1487330432575,9,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,719,1,1,9,0,0
-1487330432585,12,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,903,1,1,12,0,0
-1487330432598,527,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14963,1926,1,1,10,0,0
-1487330433126,16,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,763,1,1,16,0,0
-1487330433144,13,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,850,1,1,13,0,0
-1487330433159,14,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,882,1,1,14,0,0
+1487331068210,1196,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2419,1055,1,1,775,0,727
+1487331067932,1498,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2449,1055,1,1,1109,0,1060
+1487331068471,959,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2445,1055,1,1,647,0,616
+1487331069444,276,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1280,1,1,276,0,0
+1487331069761,23,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,821,1,1,23,0,0
+1487331069785,563,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,841,1,1,563,0,0
+1487331070350,356,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,895,1,1,356,0,10
+1487331070708,12,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1870,1,1,12,0,0
+1487331070722,57,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1240,1,1,57,0,0
+1487331070780,50,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1175,1,1,50,0,0
+1487331070832,17,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1189,1,1,17,0,0
+1487331070851,13,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,719,1,1,13,0,0
+1487331070865,12,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,903,1,1,12,0,0
+1487331070878,534,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14962,1926,1,1,11,0,0
+1487331071413,19,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,763,1,1,19,0,0
+1487331071433,14,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,850,1,1,14,0,0
+1487331071448,12,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,882,1,1,12,0,0
+1487331069477,288,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1118,1308,1,1,288,0,0
+1487331069811,227,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1739,850,1,1,227,0,0
+1487331070039,559,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1126,870,1,1,559,0,0
+1487331070600,805,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1637,924,1,1,805,0,8
+1487331071407,217,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1897,1,1,217,0,0
+1487331071626,56,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,933,1267,1,1,56,0,0
+1487331071683,50,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1202,1,1,50,0,0
+1487331071734,17,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1216,1,1,17,0,0
+1487331071752,8,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,749,1,1,8,0,0
+1487331071760,13,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,933,1,1,13,0,0
+1487331071774,337,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14964,1956,1,1,10,0,0
+1487331072112,14,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,792,1,1,14,0,0
+1487331072127,12,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,480,878,1,1,12,0,0
+1487331072140,11,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,480,910,1,1,11,0,0
+1487331069495,529,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1306,1,1,529,0,0
+1487331070072,500,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,847,1,1,500,0,0
+1487331070573,573,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,867,1,1,573,0,10
+1487331071148,518,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,921,1,1,518,0,0
+1487331071668,11,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1896,1,1,11,0,0
+1487331071681,57,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1266,1,1,57,0,0
+1487331071740,50,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1201,1,1,50,0,0
+1487331071791,14,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1215,1,1,14,0,0
+1487331071806,10,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,745,1,1,10,0,0
+1487331071817,12,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,929,1,1,12,0,0
+1487331071831,365,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14963,1952,1,1,10,0,0
+1487331072197,17,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,789,1,1,17,0,0
+1487331072215,13,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,13,0,0
+1487331072229,18,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,908,1,1,18,0,0
