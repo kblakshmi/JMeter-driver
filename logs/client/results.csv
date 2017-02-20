@@ -44,3 +44,228 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1487331072197,17,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,789,1,1,17,0,0
 1487331072215,13,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,13,0,0
 1487331072229,18,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,908,1,1,18,0,0
+2017/02/20 12:38:51,2883,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-3,text,true,,2451,1055,5,5,1274,0,1015
+2017/02/20 12:38:50,3245,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2415,1055,5,5,1620,0,1361
+2017/02/20 12:38:51,2688,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-4,text,true,,2413,1055,5,5,1282,0,1021
+2017/02/20 12:38:50,3086,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-2,text,true,,2419,1055,5,5,1512,0,1203
+2017/02/20 12:38:51,2585,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-5,text,true,,2415,1055,5,5,1304,0,1027
+2017/02/20 12:38:54,1007,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-3,text,true,,1118,1310,5,5,1007,0,488
+2017/02/20 12:38:55,276,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-3,text,true,,1739,852,5,5,276,0,0
+2017/02/20 12:38:54,1527,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-4,text,true,,1120,1274,5,5,1527,0,488
+2017/02/20 12:38:54,1528,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-2,text,true,,1120,1280,5,5,1528,0,489
+2017/02/20 12:38:54,1772,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1276,5,5,1772,0,490
+2017/02/20 12:38:54,1680,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-5,text,true,,1120,1276,5,5,1680,0,488
+2017/02/20 12:38:55,295,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-4,text,true,,1744,815,5,5,295,0,0
+2017/02/20 12:38:55,332,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-2,text,true,,1744,821,5,5,332,0,0
+2017/02/20 12:38:55,271,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,817,5,5,271,0,0
+2017/02/20 12:38:55,271,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-5,text,true,,1744,817,5,5,271,0,0
+2017/02/20 12:38:55,769,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-3,text,true,,1126,872,5,5,769,0,0
+2017/02/20 12:38:55,807,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-4,text,true,,1128,835,5,5,807,0,0
+2017/02/20 12:38:56,1016,Auth_Routers_login,201,Created,TnF_AuthAPI 1-3,text,true,,1637,926,5,5,1016,0,496
+2017/02/20 12:38:57,255,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-3,text,false,,1074,1899,5,5,255,0,0
+2017/02/20 12:38:55,1741,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-2,text,true,,1128,841,5,5,1741,0,0
+2017/02/20 12:38:56,1544,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-5,text,true,,1128,837,5,5,1544,0,0
+2017/02/20 12:38:57,270,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-3,text,true,,933,1269,5,5,270,0,0
+2017/02/20 12:38:57,257,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-3,text,false,,481,1204,5,5,257,0,0
+2017/02/20 12:38:57,288,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-3,text,true,,481,1218,5,5,288,0,0
+2017/02/20 12:38:56,2333,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,837,5,5,2333,0,492
+2017/02/20 12:38:56,1746,Auth_Routers_login,201,Created,TnF_AuthAPI 1-4,text,true,,1642,889,5,5,1746,0,498
+2017/02/20 12:38:58,538,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-4,text,false,,1074,1864,5,5,538,0,0
+2017/02/20 12:38:57,1347,Auth_Routers_login,201,Created,TnF_AuthAPI 1-5,text,true,,1642,891,5,5,1347,0,515
+2017/02/20 12:38:57,1350,Auth_Routers_login,201,Created,TnF_AuthAPI 1-2,text,true,,1643,895,5,5,1350,0,516
+2017/02/20 12:38:58,786,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-3,text,true,,457,751,5,5,786,0,513
+2017/02/20 12:38:58,264,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-3,text,false,,519,935,5,5,264,0,0
+2017/02/20 12:38:58,457,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-2,text,false,,1074,1871,5,5,457,0,0
+2017/02/20 12:38:58,455,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-5,text,false,,1074,1866,5,5,455,0,0
+2017/02/20 12:38:58,1035,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,891,5,5,1035,0,517
+2017/02/20 12:38:59,260,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1866,5,5,260,0,0
+2017/02/20 12:38:59,264,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-2,text,true,,937,1241,5,5,264,0,0
+2017/02/20 12:38:59,271,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-5,text,true,,936,1236,5,5,271,0,0
+2017/02/20 12:38:58,767,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-4,text,true,,936,1234,5,5,767,0,501
+2017/02/20 12:38:59,262,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1236,5,5,262,0,0
+2017/02/20 12:38:59,291,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-4,text,false,,481,1169,5,5,291,0,0
+2017/02/20 12:38:59,260,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1171,5,5,260,0,0
+2017/02/20 12:38:59,268,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-4,text,true,,481,1183,5,5,268,0,0
+2017/02/20 12:38:59,770,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-2,text,false,,481,1176,5,5,770,0,504
+2017/02/20 12:39:00,273,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1185,5,5,273,0,0
+2017/02/20 12:38:59,820,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-5,text,false,,481,1171,5,5,819,0,497
+2017/02/20 12:39:00,280,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-4,text,true,,457,713,5,5,280,0,0
+2017/02/20 12:39:00,262,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-2,text,true,,481,1190,5,5,262,0,0
+2017/02/20 12:39:00,259,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-5,text,true,,481,1185,5,5,259,0,0
+2017/02/20 12:39:00,261,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-4,text,false,,519,897,5,5,261,0,0
+2017/02/20 12:39:00,263,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-2,text,true,,457,719,5,5,263,0,0
+2017/02/20 12:39:00,259,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-5,text,true,,457,715,5,5,259,0,0
+2017/02/20 12:39:00,761,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,715,5,5,761,0,494
+2017/02/20 12:39:00,270,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-2,text,false,,519,903,5,5,270,0,0
+2017/02/20 12:39:01,263,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-5,text,false,,519,899,5,5,263,0,0
+2017/02/20 12:38:59,2162,Auth_Routers_orcid,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-3,text,false,,3846,748,5,5,256,0,0
+2017/02/20 12:39:00,621,Auth_Routers_orcid,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-4,text,false,,3846,710,5,5,256,0,0
+2017/02/20 12:39:01,123,Auth_Routers_orcid,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-5,text,false,,3051,0,5,5,0,0,0
+2017/02/20 12:39:01,177,Auth_Routers_loginByIp,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-1,text,false,,3051,0,3,3,0,0,0
+2017/02/20 12:39:01,163,Auth_Routers_orcid,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-2,text,false,,3051,0,1,1,0,0,0
+2017/02/20 12:45:04,2894,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-3,text,true,,2415,1055,5,5,1307,0,1030
+2017/02/20 12:45:03,3302,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2415,1055,5,5,1657,0,1388
+2017/02/20 12:45:04,3097,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-2,text,true,,2415,1055,5,5,1500,0,1188
+2017/02/20 12:45:07,990,Auth_Routers_signup,500,Internal Server Error,TnF_AuthAPI 1-2,text,false,,543,1276,5,5,990,0,484
+2017/02/20 12:45:07,1002,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-3,text,true,,1120,1276,5,5,1002,0,487
+2017/02/20 12:45:07,995,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1276,5,5,995,0,485
+2017/02/20 12:45:04,3729,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-4,text,true,,2413,1055,5,5,1311,0,1037
+2017/02/20 12:45:04,3656,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-5,text,true,,2417,1055,5,5,1349,0,1069
+2017/02/20 12:45:08,256,Auth_Routers_verifySignup,409,Conflict,TnF_AuthAPI 1-2,text,false,,509,831,5,5,256,0,0
+2017/02/20 12:45:08,263,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,817,5,5,263,0,0
+2017/02/20 12:45:08,266,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-3,text,true,,1744,817,5,5,266,0,0
+2017/02/20 12:45:08,507,Auth_Routers_credentials,409,Conflict,TnF_AuthAPI 1-2,text,false,,515,837,5,5,507,0,0
+2017/02/20 12:45:08,770,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-3,text,true,,1128,837,5,5,770,0,0
+2017/02/20 12:45:08,873,Auth_Routers_signup,500,Internal Server Error,TnF_AuthAPI 1-5,text,false,,543,1276,5,5,873,0,484
+2017/02/20 12:45:08,1005,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,837,5,5,1005,0,0
+2017/02/20 12:45:09,258,Auth_Routers_verifySignup,409,Conflict,TnF_AuthAPI 1-5,text,false,,509,833,5,5,257,0,0
+2017/02/20 12:45:08,1021,Auth_Routers_login,201,Created,TnF_AuthAPI 1-2,text,true,,1642,891,5,5,1021,0,0
+2017/02/20 12:45:09,511,Auth_Routers_credentials,409,Conflict,TnF_AuthAPI 1-5,text,false,,515,838,5,5,511,0,0
+2017/02/20 12:45:08,1787,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-4,text,true,,1120,1274,5,5,1787,0,485
+2017/02/20 12:45:09,1028,Auth_Routers_login,201,Created,TnF_AuthAPI 1-3,text,true,,1643,891,5,5,1028,0,494
+2017/02/20 12:45:09,1013,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,891,5,5,1013,0,499
+2017/02/20 12:45:09,469,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-4,text,true,,1745,815,5,5,468,0,0
+2017/02/20 12:45:10,256,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-3,text,false,,1074,1867,5,5,256,0,0
+2017/02/20 12:45:09,514,Auth_Routers_login,201,Created,TnF_AuthAPI 1-5,text,true,,1637,892,5,5,514,0,0
+2017/02/20 12:45:09,739,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-2,text,false,,1074,1866,5,5,739,0,488
+2017/02/20 12:45:10,252,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1866,5,5,252,0,0
+2017/02/20 12:45:10,274,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-3,text,true,,937,1237,5,5,274,0,0
+2017/02/20 12:45:10,267,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-2,text,true,,936,1236,5,5,267,0,0
+2017/02/20 12:45:10,301,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1236,5,5,301,0,0
+2017/02/20 12:45:10,257,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-3,text,false,,481,1172,5,5,257,0,0
+2017/02/20 12:45:10,253,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-2,text,false,,481,1171,5,5,253,0,0
+2017/02/20 12:45:10,741,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-5,text,false,,1074,1865,5,5,741,0,486
+2017/02/20 12:45:11,257,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-3,text,true,,481,1186,5,5,257,0,0
+2017/02/20 12:45:11,255,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-5,text,true,,933,1235,5,5,255,0,0
+2017/02/20 12:45:10,717,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1171,5,5,717,0,0
+2017/02/20 12:45:10,1266,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-4,text,true,,1128,835,5,5,1266,0,500
+2017/02/20 12:45:11,511,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-2,text,true,,481,1185,5,5,511,0,0
+2017/02/20 12:45:11,253,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-5,text,false,,481,1170,5,5,253,0,0
+2017/02/20 12:45:11,250,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-2,text,true,,457,715,5,5,250,0,0
+2017/02/20 12:45:11,255,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-5,text,true,,481,1184,5,5,254,0,0
+2017/02/20 12:45:11,737,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-3,text,true,,457,715,5,5,737,0,482
+2017/02/20 12:45:11,515,Auth_Routers_login,201,Created,TnF_AuthAPI 1-4,text,true,,1643,889,5,5,515,0,0
+2017/02/20 12:45:11,256,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-5,text,true,,457,717,5,5,256,0,0
+2017/02/20 12:45:11,256,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-3,text,false,,519,899,5,5,256,0,0
+2017/02/20 12:45:12,260,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-4,text,false,,1074,1865,5,5,260,0,0
+2017/02/20 12:45:12,263,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-5,text,false,,519,901,5,5,263,0,0
+2017/02/20 12:45:11,763,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-2,text,false,,519,899,5,5,763,0,496
+2017/02/20 12:45:12,784,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-4,text,true,,937,1235,5,5,784,0,502
+2017/02/20 12:45:11,1643,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1185,5,5,1643,0,1374
+2017/02/20 12:45:13,252,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-4,text,false,,481,1170,5,5,252,0,0
+2017/02/20 12:45:13,254,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,715,5,5,254,0,0
+2017/02/20 12:45:13,258,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-4,text,true,,481,1184,5,5,258,0,0
+2017/02/20 12:45:13,259,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,899,5,5,259,0,0
+2017/02/20 12:45:13,254,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-4,text,true,,457,713,5,5,254,0,0
+2017/02/20 12:45:14,254,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-4,text,false,,519,897,5,5,254,0,0
+2017/02/20 12:45:12,2760,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-2,text,true,,14968,1922,5,5,257,0,0
+2017/02/20 12:45:12,3263,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-5,text,true,,14963,1924,5,5,772,0,499
+2017/02/20 12:45:12,3583,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-3,text,true,,14965,1922,5,5,263,0,0
+2017/02/20 12:45:15,749,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-2,text,true,,478,759,5,5,749,0,489
+2017/02/20 12:45:16,258,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-2,text,true,,481,846,5,5,258,0,0
+2017/02/20 12:45:15,743,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-5,text,true,,478,760,5,5,743,0,486
+2017/02/20 12:45:15,742,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-3,text,true,,478,759,5,5,742,0,485
+2017/02/20 12:45:16,255,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-2,text,true,,481,878,5,5,254,0,0
+2017/02/20 12:45:16,252,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-5,text,true,,480,846,5,5,252,0,0
+2017/02/20 12:45:16,255,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-3,text,true,,481,846,5,5,255,0,0
+2017/02/20 12:45:16,256,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-5,text,true,,480,878,5,5,256,0,0
+2017/02/20 12:45:14,2742,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-4,text,true,,14966,1920,5,5,267,0,0
+2017/02/20 12:45:13,3216,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14966,1922,5,5,755,0,494
+2017/02/20 12:45:16,253,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-3,text,true,,481,878,5,5,253,0,0
+2017/02/20 12:45:16,1000,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-2,text,true,,2413,1341,5,5,255,0,0
+2017/02/20 12:45:17,748,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-4,text,true,,478,757,5,5,748,0,486
+2017/02/20 12:45:17,760,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,759,5,5,760,0,495
+2017/02/20 12:45:17,1018,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-5,text,true,,2451,1343,5,5,256,0,0
+2017/02/20 12:45:17,274,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-4,text,true,,481,844,5,5,274,0,0
+2017/02/20 12:45:17,275,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,846,5,5,275,0,0
+2017/02/20 12:45:17,1024,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-3,text,true,,2449,1341,5,5,261,0,0
+2017/02/20 12:45:18,273,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-4,text,true,,481,876,5,5,273,0,0
+2017/02/20 12:45:18,280,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,878,5,5,280,0,0
+2017/02/20 12:45:17,1083,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-2,text,true,,1120,1274,5,5,1083,0,525
+2017/02/20 12:45:18,301,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-2,text,true,,1744,815,5,5,301,0,0
+2017/02/20 12:45:18,1081,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-3,text,true,,1120,1310,5,5,1081,0,543
+2017/02/20 12:45:19,286,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-3,text,true,,1744,851,5,5,286,0,0
+2017/02/20 12:45:19,783,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-2,text,true,,1128,835,5,5,783,0,0
+2017/02/20 12:45:18,1927,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-5,text,true,,1118,1310,5,5,1927,0,1398
+2017/02/20 12:45:19,980,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-3,text,true,,1128,871,5,5,980,0,0
+2017/02/20 12:45:19,519,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-5,text,true,,1738,852,5,5,519,0,0
+2017/02/20 12:45:18,2394,Auth_Routers_authorize,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-1,text,false,Test failed: code expected to contain /200/,4585,918,5,5,432,0,0
+2017/02/20 12:45:20,327,Auth_Routers_login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-3,text,false,,2516,0,5,5,0,0,327
+2017/02/20 12:45:19,880,Auth_Routers_login,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-2,text,false,,3051,0,3,3,0,0,511
+2017/02/20 12:45:18,2469,Auth_Routers_authorize,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-4,text,false,Test failed: code expected to contain /200/,4650,916,3,3,499,0,0
+2017/02/20 12:45:20,322,Auth_Routers_credentials,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-5,text,false,,2516,0,3,3,0,0,322
+2017/02/20 12:46:32,3246,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2449,1055,1,1,1639,0,1378
+2017/02/20 12:46:35,1004,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1310,1,1,1004,0,489
+2017/02/20 12:46:36,284,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,851,1,1,284,0,0
+2017/02/20 12:46:37,775,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,871,1,1,775,0,0
+2017/02/20 12:46:37,1014,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1643,925,1,1,1014,0,505
+2017/02/20 12:46:38,255,Auth_Routers_token,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,1074,1901,1,1,255,0,0
+2017/02/20 12:46:39,259,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,937,1271,1,1,258,0,0
+2017/02/20 12:46:39,254,Auth_Routers_logout_GET,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,481,1206,1,1,254,0,0
+2017/02/20 12:46:39,254,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1220,1,1,254,0,0
+2017/02/20 12:46:39,736,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,749,1,1,736,0,485
+2017/02/20 12:46:40,261,Auth_Routers_loginByIp,404,Not Found,TnF_AuthAPI 1-1,text,false,,519,933,1,1,261,0,0
+2017/02/20 12:46:40,2763,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14967,1956,1,1,253,0,0
+2017/02/20 12:46:43,764,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,793,1,1,764,0,499
+2017/02/20 12:46:44,256,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,880,1,1,256,0,0
+2017/02/20 12:46:44,252,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,912,1,1,252,0,0
+2017/02/20 12:47:38,3243,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2445,1055,1,1,1661,0,1387
+2017/02/20 12:47:41,1007,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1306,1,1,1007,0,485
+2017/02/20 12:47:42,272,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1745,847,1,1,272,0,0
+2017/02/20 12:47:43,763,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,867,1,1,763,0,0
+2017/02/20 12:47:43,1003,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,921,1,1,1003,0,490
+2017/02/20 12:47:44,267,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1266,1,1,267,0,0
+2017/02/20 12:47:45,263,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1215,1,1,263,0,0
+2017/02/20 12:47:45,252,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,745,1,1,252,0,0
+2017/02/20 12:47:45,2720,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14966,1952,1,1,255,0,0
+2017/02/20 12:47:48,748,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,789,1,1,748,0,485
+2017/02/20 12:47:49,255,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,255,0,0
+2017/02/20 12:47:49,262,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,908,1,1,262,0,0
+2017/02/20 12:55:13,4467,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2419,1055,1,1,1659,0,1398
+2017/02/20 12:55:17,1053,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1280,1,1,1053,0,507
+2017/02/20 12:55:19,284,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,821,1,1,284,0,0
+2017/02/20 12:55:19,768,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,841,1,1,768,0,0
+2017/02/20 12:55:20,1001,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1643,895,1,1,1001,0,485
+2017/02/20 12:55:21,269,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,937,1241,1,1,269,0,0
+2017/02/20 12:55:21,277,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1190,1,1,277,0,0
+2017/02/20 12:55:21,264,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,719,1,1,264,0,0
+2017/02/20 12:55:21,3664,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14967,1926,1,1,264,0,0
+2017/02/20 12:55:25,786,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,763,1,1,786,0,516
+2017/02/20 12:55:26,261,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,850,1,1,261,0,0
+2017/02/20 12:55:26,260,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,882,1,1,260,0,0
+2017/02/20 12:56:53,3376,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2451,1055,1,1,1652,0,1372
+2017/02/20 12:56:56,1044,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1312,1,1,1044,0,505
+2017/02/20 12:56:57,287,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,853,1,1,287,0,0
+2017/02/20 12:56:58,769,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,873,1,1,769,0,0
+2017/02/20 12:56:58,1028,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1643,927,1,1,1028,0,499
+2017/02/20 12:56:59,270,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,937,1273,1,1,270,0,0
+2017/02/20 12:57:00,278,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1222,1,1,278,0,0
+2017/02/20 12:57:00,262,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,751,1,1,262,0,0
+2017/02/20 12:57:00,2760,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14966,1958,1,1,257,0,0
+2017/02/20 12:57:03,751,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,795,1,1,751,0,491
+2017/02/20 12:57:04,268,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,882,1,1,268,0,0
+2017/02/20 12:57:04,1068,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,914,1,1,1068,0,0
+2017/02/20 12:59:50,3271,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2449,1055,1,1,1674,0,1413
+2017/02/20 12:59:54,1010,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1310,1,1,1010,0,486
+2017/02/20 12:59:55,273,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,851,1,1,273,0,0
+2017/02/20 12:59:55,777,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,871,1,1,777,0,0
+2017/02/20 12:59:56,1005,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,925,1,1,1005,0,494
+2017/02/20 12:59:57,262,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1270,1,1,261,0,0
+2017/02/20 12:59:57,256,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1219,1,1,256,0,0
+2017/02/20 12:59:57,250,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,749,1,1,250,0,0
+2017/02/20 12:59:57,2741,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14966,1956,1,1,253,0,0
+2017/02/20 13:00:00,768,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,793,1,1,768,0,500
+2017/02/20 13:00:01,252,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,880,1,1,252,0,0
+2017/02/20 13:00:01,264,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,912,1,1,263,0,0
+2017/02/20 13:07:32,3383,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2445,1055,1,1,1682,0,1411
+2017/02/20 13:07:36,1074,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1306,1,1,1074,0,524
+2017/02/20 13:07:37,296,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,847,1,1,296,0,0
+2017/02/20 13:07:37,773,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,867,1,1,773,0,0
+2017/02/20 13:07:38,1047,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,921,1,1,1047,0,519
+2017/02/20 13:07:39,277,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1266,1,1,277,0,0
+2017/02/20 13:07:39,279,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1215,1,1,279,0,0
+2017/02/20 13:07:39,288,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,745,1,1,288,0,0
+2017/02/20 13:07:40,3765,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14966,1952,1,1,267,0,0
+2017/02/20 13:07:44,793,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,789,1,1,793,0,516
+2017/02/20 13:07:44,279,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,279,0,0
+2017/02/20 13:07:45,278,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,908,1,1,278,0,0
