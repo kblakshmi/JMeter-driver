@@ -44,3 +44,61 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1487331072197,17,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,789,1,1,17,0,0
 1487331072215,13,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,13,0,0
 1487331072229,18,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,908,1,1,18,0,0
+2017/02/20 13:28:55,3286,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,4335,551,1,1,1645,0,1371
+2017/02/20 13:28:59,1316,Auth_Routers_signup,404,Not Found,TnF_AuthAPI 1-1,text,false,,881,1890,1,1,526,0,255
+2017/02/20 13:29:00,524,Auth_Routers_verifySignup,404,Not Found,TnF_AuthAPI 1-1,text,false,,893,1000,1,1,257,0,0
+2017/02/20 13:29:01,523,Auth_Routers_credentials,404,Not Found,TnF_AuthAPI 1-1,text,false,,891,1010,1,1,257,0,0
+2017/02/20 13:29:01,1308,Auth_Routers_login,404,Not Found,TnF_AuthAPI 1-1,text,false,,1023,1529,1,1,514,0,256
+2017/02/20 13:29:02,527,Auth_Routers_authtokenverification,404,Not Found,TnF_AuthAPI 1-1,text,false,,911,964,1,1,258,0,0
+2017/02/20 13:29:03,785,Auth_Routers_logout_POST,404,Not Found,TnF_AuthAPI 1-1,text,false,,525,783,1,1,785,0,515
+2017/02/20 13:29:04,267,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,389,543,1,1,267,0,0
+2017/02/20 13:29:04,5303,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55732,1502,1,1,510,0,255
+2017/02/20 13:29:15,2721,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,4331,551,1,1,1362,0,1092
+2017/02/20 13:29:18,1335,Auth_Routers_signup,404,Not Found,TnF_AuthAPI 1-1,text,false,,881,1878,1,1,510,0,255
+2017/02/20 13:29:19,523,Auth_Routers_verifySignup,404,Not Found,TnF_AuthAPI 1-1,text,false,,893,996,1,1,257,0,0
+2017/02/20 13:29:20,537,Auth_Routers_credentials,404,Not Found,TnF_AuthAPI 1-1,text,false,,891,1002,1,1,261,0,0
+2017/02/20 13:29:20,1369,Auth_Routers_login,404,Not Found,TnF_AuthAPI 1-1,text,false,,1023,1521,1,1,537,0,268
+2017/02/20 13:29:22,538,Auth_Routers_authtokenverification,404,Not Found,TnF_AuthAPI 1-1,text,false,,911,960,1,1,273,0,0
+2017/02/20 13:29:22,812,Auth_Routers_logout_POST,404,Not Found,TnF_AuthAPI 1-1,text,false,,525,779,1,1,812,0,530
+2017/02/20 13:29:23,269,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,389,539,1,1,269,0,0
+2017/02/20 13:29:23,5115,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55732,1498,1,1,513,0,257
+2017/02/20 13:29:53,3342,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,4299,551,1,1,1705,0,1428
+2017/02/20 13:29:57,1346,Auth_Routers_signup,404,Not Found,TnF_AuthAPI 1-1,text,false,,881,1854,1,1,526,0,258
+2017/02/20 13:29:59,546,Auth_Routers_verifySignup,404,Not Found,TnF_AuthAPI 1-1,text,false,,893,964,1,1,272,0,0
+2017/02/20 13:30:00,1323,Auth_Routers_credentials,404,Not Found,TnF_AuthAPI 1-1,text,false,,891,974,1,1,512,0,256
+2017/02/20 13:30:02,534,Auth_Routers_login,404,Not Found,TnF_AuthAPI 1-1,text,false,,1023,1493,1,1,255,0,0
+2017/02/20 13:30:03,1300,Auth_Routers_authtokenverification,404,Not Found,TnF_AuthAPI 1-1,text,false,,911,928,1,1,513,0,257
+2017/02/20 13:30:05,783,Auth_Routers_logout_POST,404,Not Found,TnF_AuthAPI 1-1,text,false,,525,747,1,1,783,0,513
+2017/02/20 13:30:06,279,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,389,507,1,1,278,0,0
+2017/02/20 13:30:07,5147,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55732,1466,1,1,536,0,263
+2017/02/20 13:31:37,3534,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,4333,551,1,1,1792,0,1523
+2017/02/20 13:31:41,801,Auth_Routers_signup,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,437,1105,1,1,801,0,514
+1970/01/01 05:30:00,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: api-uat.taylorandfrancis.com/v2/auth/user/auth,TnF_AuthAPI 1-1,text,false,,747,0,1,1,0,0,0
+2017/02/20 13:31:43,327,Auth_Routers_credentials,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,424,663,1,1,327,0,0
+2017/02/20 13:31:44,780,Auth_Routers_login,404,Not Found,TnF_AuthAPI 1-1,text,false,,435,927,1,1,780,0,516
+2017/02/20 13:31:45,782,Auth_Routers_authtokenverification,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,456,640,1,1,782,0,512
+2017/02/20 13:31:46,273,Auth_Routers_logout_POST,404,Not Found,TnF_AuthAPI 1-1,text,false,,525,781,1,1,273,0,0
+2017/02/20 13:31:47,785,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,389,541,1,1,785,0,518
+2017/02/20 13:31:48,3422,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55211,1294,1,1,271,0,0
+2017/02/20 13:34:06,3479,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,4301,551,1,1,1749,0,1470
+2017/02/20 13:34:10,818,Auth_Routers_signup,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,437,1071,1,1,818,0,517
+1970/01/01 05:30:00,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: api-uat.taylorandfrancis.com/v2/auth/user/auth,TnF_AuthAPI 1-1,text,false,,747,0,1,1,0,0,0
+2017/02/20 13:34:11,284,Auth_Routers_credentials,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,424,630,1,1,283,0,0
+2017/02/20 13:34:12,792,Auth_Routers_login,404,Not Found,TnF_AuthAPI 1-1,text,false,,435,894,1,1,792,0,511
+2017/02/20 13:34:14,794,Auth_Routers_authtokenverification,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,456,608,1,1,794,0,512
+2017/02/20 13:34:15,269,Auth_Routers_logout_POST,404,Not Found,TnF_AuthAPI 1-1,text,false,,525,749,1,1,269,0,0
+2017/02/20 13:34:16,783,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,389,509,1,1,783,0,513
+2017/02/20 13:34:17,4350,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55211,1262,1,1,267,0,0
+2017/02/20 13:34:22,1300,Auth_Routers_forgotpassword_get,404,Not Found,TnF_AuthAPI 1-1,text,false,,989,818,1,1,521,0,264
+2017/02/20 13:34:24,445,Auth_Routers_forgotpassword_post,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,TnF_AuthAPI 1-1,text,false,,4077,656,1,1,265,0,0
+2017/02/20 13:34:28,2678,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,4301,551,1,1,1338,0,1072
+2017/02/20 13:34:31,776,Auth_Routers_signup,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,437,1073,1,1,776,0,511
+1970/01/01 05:30:00,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: api-uat.taylorandfrancis.com/v2/auth/user/auth,TnF_AuthAPI 1-1,text,false,,747,0,1,1,0,0,0
+2017/02/20 13:34:33,274,Auth_Routers_credentials,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,424,631,1,1,274,0,0
+2017/02/20 13:34:34,783,Auth_Routers_login,404,Not Found,TnF_AuthAPI 1-1,text,false,,435,895,1,1,783,0,517
+2017/02/20 13:34:35,782,Auth_Routers_authtokenverification,500,Internal Server Error,TnF_AuthAPI 1-1,text,false,,456,608,1,1,782,0,512
+2017/02/20 13:34:36,268,Auth_Routers_logout_POST,404,Not Found,TnF_AuthAPI 1-1,text,false,,525,749,1,1,268,0,0
+2017/02/20 13:34:37,1647,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,389,509,1,1,1647,0,1371
+2017/02/20 13:34:39,3937,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55211,1262,1,1,787,0,522
+2017/02/20 13:34:44,789,Auth_Routers_forgotpassword_get,404,Not Found,TnF_AuthAPI 1-1,text,false,,459,553,1,1,789,0,519
+2017/02/20 13:34:45,266,Auth_Routers_forgotpassword_post,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,478,659,1,1,266,0,0
