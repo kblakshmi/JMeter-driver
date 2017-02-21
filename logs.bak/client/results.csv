@@ -1,4 +1,5 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+<<<<<<< HEAD
 1487331068210,1196,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2419,1055,1,1,775,0,727
 1487331067932,1498,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2449,1055,1,1,1109,0,1060
 1487331068471,959,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2445,1055,1,1,647,0,616
@@ -102,3 +103,41 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 2017/02/20 13:34:39,3937,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,55211,1262,1,1,787,0,522
 2017/02/20 13:34:44,789,Auth_Routers_forgotpassword_get,404,Not Found,TnF_AuthAPI 1-1,text,false,,459,553,1,1,789,0,519
 2017/02/20 13:34:45,266,Auth_Routers_forgotpassword_post,401,Unauthorized,TnF_AuthAPI 1-1,text,false,,478,659,1,1,266,0,0
+=======
+1487576603418,1634,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2415,1055,1,1,1085,0,1033
+1487576603581,1476,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2413,1055,1,1,947,0,901
+1487576603812,1262,Auth_Routers_authorize,200,OK,TnF_AuthAPI 1-1,text,true,,2447,1055,1,1,711,0,673
+1487576605119,283,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1118,1274,1,1,283,0,0
+1487576605451,26,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1738,816,1,1,26,0,0
+1487576605478,561,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1126,836,1,1,561,0,0
+1487576606041,326,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1637,890,1,1,326,0,8
+1487576606371,61,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,933,1233,1,1,61,0,0
+1487576606433,28,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1182,1,1,28,0,0
+1487576606463,13,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,715,1,1,13,0,0
+1487576606478,538,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14964,1922,1,1,16,0,0
+1487576607018,31,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,758,1,1,31,0,0
+1487576607051,15,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,480,844,1,1,15,0,0
+1487576607067,22,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,480,876,1,1,22,0,0
+1487576605132,273,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1308,1,1,273,0,0
+1487576605456,228,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,849,1,1,228,0,0
+1487576605685,565,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,869,1,1,565,0,0
+1487576606253,789,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,923,1,1,789,0,11
+1487576607045,267,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1268,1,1,267,0,0
+1487576607314,18,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1217,1,1,18,0,0
+1487576607334,14,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,747,1,1,14,0,0
+1487576607349,359,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14965,1954,1,1,28,0,0
+1487576607709,19,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,791,1,1,19,0,0
+1487576607730,16,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,878,1,1,16,0,0
+1487576607747,19,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,910,1,1,19,0,0
+1487576605125,538,Auth_Routers_signup,200,OK,TnF_AuthAPI 1-1,text,true,,1120,1274,1,1,538,0,0
+1487576605708,512,Auth_Routers_verifySignup,200,OK,TnF_AuthAPI 1-1,text,true,,1744,815,1,1,512,0,7
+1487576606221,561,Auth_Routers_credentials,200,OK,TnF_AuthAPI 1-1,text,true,,1128,835,1,1,561,0,0
+1487576606785,522,Auth_Routers_login,201,Created,TnF_AuthAPI 1-1,text,true,,1642,889,1,1,522,0,0
+1487576607309,60,Auth_Routers_authtokenverification,200,OK,TnF_AuthAPI 1-1,text,true,,936,1234,1,1,60,0,0
+1487576607370,23,Auth_Routers_logout_POST,200,OK,TnF_AuthAPI 1-1,text,true,,481,1183,1,1,23,0,0
+1487576607394,13,Auth_Routers_mylogout,200,OK,TnF_AuthAPI 1-1,text,true,,457,713,1,1,13,0,0
+1487576607408,384,Auth_Routers_orcid,200,OK,TnF_AuthAPI 1-1,text,true,,14965,1920,1,1,12,0,0
+1487576607793,38,Auth_Routers_forgotpassword_get,201,Created,TnF_AuthAPI 1-1,text,true,,478,757,1,1,38,0,8
+1487576607833,16,Auth_Routers_forgotpassword_post,200,OK,TnF_AuthAPI 1-1,text,true,,481,844,1,1,16,0,0
+1487576607850,15,Auth_Routers_forgotpassword_put,200,OK,TnF_AuthAPI 1-1,text,true,,481,876,1,1,15,0,0
+>>>>>>> 751c26757c89c715e94435de40214f916fb0356a
