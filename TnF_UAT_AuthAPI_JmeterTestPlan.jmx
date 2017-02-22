@@ -39,7 +39,7 @@
           <stringProp name="LoopController.loops">1</stringProp>
         </elementProp>
         <stringProp name="ThreadGroup.num_threads">1</stringProp>
-        <stringProp name="ThreadGroup.ramp_time">2</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
         <longProp name="ThreadGroup.start_time">1487142832000</longProp>
         <longProp name="ThreadGroup.end_time">1487142832000</longProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
@@ -1180,7 +1180,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">D:\GitHub\JMeter-driver\logs\client\results.csv</stringProp>
+        <stringProp name="filename">D:\bitbucker_Jmeter\authuser-api\test\JMeter-driver\logs\client\results.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="false">
@@ -1252,7 +1252,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename"></stringProp>
+        <stringProp name="filename">D:\bitbucker_Jmeter\authuser-api\test\JMeter-driver\logs.bak\client\results.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="SimpleDataWriter" testclass="ResultCollector" testname="Simple Data Writer" enabled="false">
@@ -1291,7 +1291,7 @@
         <stringProp name="filename">D:\Jmeter\apache-jmeter-3.1\apache-jmeter-3.1\bin\TestResults\Software-Teseting.csv</stringProp>
       </ResultCollector>
       <hashTree/>
-      <BackendListener guiclass="BackendListenerGui" testclass="BackendListener" testname="Backend Listener" enabled="true">
+      <BackendListener guiclass="BackendListenerGui" testclass="BackendListener" testname="Backend Listener" enabled="false">
         <elementProp name="arguments" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" enabled="true">
           <collectionProp name="Arguments.arguments">
             <elementProp name="graphiteMetricsSender" elementType="Argument">
